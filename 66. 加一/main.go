@@ -2,26 +2,19 @@ package main
 
 import (
 	"fmt"
-	"strconv"
-	"strings"
 )
 
 func plusOne(digits []int) []int {
-	var tmp []string
-
-	for _, k := range digits {
-		tmp = append(tmp, strconv.Itoa(k))
+	for i:=len(digits)-1;i>=0;i--{
+		if digits[i]<9 {
+			digits[i]++
+			return digits
+		}
+		digits[i]=0
 	}
-	tmp1, _ := strconv.Atoi(strings.Join(tmp, ""))
-	tmp1++
-	tmp2 := strconv.Itoa(tmp1)
-
-	var ans []int
-	for _, v := range tmp2 {
-		kk, _ := strconv.Atoi(string(v))
-		ans = append(ans, kk)
-	}
-	return ans
+	nums:=make([]int,len(digits)+1)
+	nums[0]=1
+	return nums
 }
 
 func main() {
