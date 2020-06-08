@@ -22,6 +22,6 @@ func letterCasePermutation(S string) []string {
 }
 
 func main() {
-	S := "a1b2"
+	S := "12345"
 	fmt.Println(letterCasePermutation(S))
 }
