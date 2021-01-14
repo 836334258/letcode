@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b0d9ff75-8f88-4e20-a6c0-4da2c3b90785" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1200. 最小绝对差/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/1200. 最小绝对差/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/349. 两个数组的交集/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/349. 两个数组的交集/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <recent name="D:\code\go\letcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build letcode/1200. 最小绝对差" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -80,15 +80,6 @@
       <filePath value="$PROJECT_DIR$/1200. 最小绝对差/main.go" />
       <package value="letcode/1200. 最小绝对差" />
       <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build letcode/202. 快乐数" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="letcode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/202. 快乐数/main.go" />
-      <package value="letcode/202. 快乐数" />
-      <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
     <configuration name="go build letcode/677. 键值映射" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -109,6 +100,15 @@
       <directory value="$PROJECT_DIR$/" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="letcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/349. 两个数组的交集/main.go" />
+      <package value="letcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build letcode/1200. 最小绝对差" />
         <item itemvalue="Go Build.go build letcode/677. 键值映射" />
         <item itemvalue="Go Build.go build letcode/784. 字母大小写全排列" />
-        <item itemvalue="Go Build.go build letcode/202. 快乐数" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +142,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="最小绝对差" />
+    <option name="LAST_COMMIT_MESSAGE" value="最小绝对差" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
