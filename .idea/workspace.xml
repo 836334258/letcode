@@ -20,7 +20,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d9ff75-8f88-4e20-a6c0-4da2c3b90785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1603. 设计停车系统/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +72,7 @@
       <recent name="D:\code\go\letcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go">
+  <component name="RunManager" selected="Go Build.go build main.go (1)">
     <configuration name="go build letcode/1603. 设计停车系统" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -83,11 +82,11 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/1636. 按照频率将数组升序排序/main.go" />
+      <filePath value="$PROJECT_DIR$/1678. 设计 Goal 解析器/main.go" />
       <package value="letcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
@@ -121,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go (1)" />
         <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Build.go build letcode/1603. 设计停车系统" />
         <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (4)" />
-        <item itemvalue="Go Build.go build main.go (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,8 @@
     <MESSAGE value="977. 有序数组的平方" />
     <MESSAGE value="905. 按奇偶排序数组" />
     <MESSAGE value="1470" />
-    <option name="LAST_COMMIT_MESSAGE" value="1470" />
+    <MESSAGE value="1603" />
+    <option name="LAST_COMMIT_MESSAGE" value="1603" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
