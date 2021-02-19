@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0d9ff75-8f88-4e20-a6c0-4da2c3b90785" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b0d9ff75-8f88-4e20-a6c0-4da2c3b90785" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.15.1/libexec" />
+  <component name="GOROOT" url="file:///usr/local/Cellar/go/1.15.8/libexec" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
