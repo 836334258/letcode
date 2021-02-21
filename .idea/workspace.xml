@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0d9ff75-8f88-4e20-a6c0-4da2c3b90785" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1748. 唯一元素的和/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20. 有效的括号/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1480. 一维数组的动态和/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5685. 交替合并字符串/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,16 +73,7 @@
       <recent name="D:\code\go\letcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go (4)">
-    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="letcode" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/1678. 设计 Goal 解析器/main.go" />
-      <package value="letcode" />
-      <directory value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
@@ -109,22 +100,31 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="letcode" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/5685. 交替合并字符串/main.go" />
+      <package value="letcode" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="letcode" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/1603. 设计停车系统/main.go" />
+      <filePath value="$PROJECT_DIR$/1480. 一维数组的动态和/main.go" />
       <package value="letcode" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build main.go (5)" />
         <item itemvalue="Go Build.go build main.go (4)" />
         <item itemvalue="Go Build.go build main.go (3)" />
         <item itemvalue="Go Build.go build main.go (2)" />
-        <item itemvalue="Go Build.go build main.go (1)" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
     <MESSAGE value="1470" />
     <MESSAGE value="1603" />
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="唯一元素的和" />
+    <option name="LAST_COMMIT_MESSAGE" value="唯一元素的和" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
